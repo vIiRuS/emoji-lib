@@ -1,8 +1,6 @@
-package net.pherth.android.emoji_library.emoji;
+package net.pherth.android.emoji_library;
 
 import android.content.Context;
-
-import net.pherth.android.emoji_library.emoji.emoji.Emojicon;
 
 /**
  * @author Daniele Ricci

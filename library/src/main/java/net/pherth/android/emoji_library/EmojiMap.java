@@ -1,4 +1,4 @@
-package net.pherth.android.emoji_library.emoji;
+package net.pherth.android.emoji_library;
 
 import java.util.HashMap;
 import java.util.Map;

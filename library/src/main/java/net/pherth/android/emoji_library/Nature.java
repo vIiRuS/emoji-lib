@@ -1,4 +1,4 @@
-package net.pherth.android.emoji_library.emoji.emoji;
+package net.pherth.android.emoji_library;
 
 /**
  * @author Hieu Rocker

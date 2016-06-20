@@ -10,11 +10,11 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.ImageButton;
 import android.widget.PopupWindow.OnDismissListener;
 
-import net.pherth.android.emoji_library.emoji.EmojiEditText;
-import net.pherth.android.emoji_library.emoji.EmojiGridView;
-import net.pherth.android.emoji_library.emoji.EmojiPopup;
+import net.pherth.android.emoji_library.EmojiEditText;
+import net.pherth.android.emoji_library.EmojiGridView;
+import net.pherth.android.emoji_library.EmojiPopup;
 import net.pherth.android.emoji_library.emoji.Emojicon;
-import net.pherth.android.emoji_library.emoji.emoji.Emojicon;
+import net.pherth.android.emoji_library.Emojicon;
 
 public class MainActivity extends Activity {
 

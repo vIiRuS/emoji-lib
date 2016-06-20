@@ -1,6 +1,6 @@
-package net.pherth.android.emoji_library.emoji.emoji;
+package net.pherth.android.emoji_library.emoji;
 
-import net.pherth.android.emoji_library.emoji.EmojiMap;
+import net.pherth.android.emoji_library.EmojiMap;
 
 import org.junit.Test;
 

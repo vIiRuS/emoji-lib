@@ -21,7 +21,7 @@
         android:layout_alignParentStart="true"
         />
 
-    <net.pherth.android.emoji_library.emoji.EmojiEditText
+    <net.pherth.android.emoji_library.EmojiEditText
         android:id="@+id/emojicon_edit_text"
         android:layout_width="match_parent"
         android:minHeight="100dp"

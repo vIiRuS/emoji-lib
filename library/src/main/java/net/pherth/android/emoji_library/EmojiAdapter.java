@@ -1,4 +1,4 @@
-package net.pherth.android.emoji_library.emoji;
+package net.pherth.android.emoji_library;
 
 import android.content.Context;
 import android.view.View;
@@ -8,8 +8,6 @@ import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
 import com.github.viirus.emojilib.R;
-
-import net.pherth.android.emoji_library.emoji.emoji.Emojicon;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package net.pherth.android.emoji_library.emoji.emoji;
+package net.pherth.android.emoji_library;
 
 import android.os.Parcel;
 import android.os.Parcelable;

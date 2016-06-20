@@ -1,9 +1,7 @@
-package net.pherth.android.emoji_library.emoji;
+package net.pherth.android.emoji_library;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-
-import net.pherth.android.emoji_library.emoji.emoji.Emojicon;
 
 import java.util.ArrayList;
 import java.util.StringTokenizer;

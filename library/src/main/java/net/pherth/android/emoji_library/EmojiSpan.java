@@ -1,4 +1,4 @@
-package net.pherth.android.emoji_library.emoji;
+package net.pherth.android.emoji_library;
 
 import android.content.Context;
 import android.graphics.Canvas;
