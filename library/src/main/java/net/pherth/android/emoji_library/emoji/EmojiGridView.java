@@ -1,4 +1,4 @@
-package net.android.emoji_library;
+package net.pherth.android.emoji_library.emoji;
 
 import java.util.Arrays;
 
@@ -10,8 +10,8 @@ import android.widget.GridView;
 
 import com.github.viirus.emojilib.R;
 
-import net.android.emoji_library.emoji.Emojicon;
-import net.android.emoji_library.emoji.People;
+import net.pherth.android.emoji_library.emoji.emoji.Emojicon;
+import net.pherth.android.emoji_library.emoji.emoji.People;
 
 /**
  * @author Hieu Rocker

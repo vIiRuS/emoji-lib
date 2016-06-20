@@ -1,4 +1,4 @@
-package net.android.emoji_library;
+package net.pherth.android.emoji_library.emoji;
 
 import com.github.viirus.emojilib.R;
 

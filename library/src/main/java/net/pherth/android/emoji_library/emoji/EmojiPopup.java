@@ -1,4 +1,4 @@
-package net.android.emoji_library;
+package net.pherth.android.emoji_library.emoji;
 
 import java.util.Arrays;
 import java.util.List;
@@ -28,12 +28,12 @@ import android.widget.PopupWindow;
 
 import com.github.viirus.emojilib.R;
 
-import net.android.emoji_library.emoji.Emojicon;
-import net.android.emoji_library.emoji.Nature;
-import net.android.emoji_library.emoji.Objects;
-import net.android.emoji_library.emoji.People;
-import net.android.emoji_library.emoji.Places;
-import net.android.emoji_library.emoji.Symbols;
+import net.pherth.android.emoji_library.emoji.emoji.Emojicon;
+import net.pherth.android.emoji_library.emoji.emoji.Nature;
+import net.pherth.android.emoji_library.emoji.emoji.Objects;
+import net.pherth.android.emoji_library.emoji.emoji.People;
+import net.pherth.android.emoji_library.emoji.emoji.Places;
+import net.pherth.android.emoji_library.emoji.emoji.Symbols;
 
 /**
  * @author Ankush Sachdeva

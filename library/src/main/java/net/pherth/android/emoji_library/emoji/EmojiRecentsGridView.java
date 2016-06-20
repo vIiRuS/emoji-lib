@@ -1,11 +1,11 @@
-package net.android.emoji_library;
+package net.pherth.android.emoji_library.emoji;
 
 import android.content.Context;
 import android.widget.GridView;
 
 import com.github.viirus.emojilib.R;
 
-import net.android.emoji_library.emoji.Emojicon;
+import net.pherth.android.emoji_library.emoji.emoji.Emojicon;
 
 /**
  * @author Hieu Rocker

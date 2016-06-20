@@ -1,6 +1,6 @@
-package net.android.emoji_library;
+package net.pherth.android.emoji_library.emoji;
 
-import net.android.emoji_library.emoji.EmojiMap;
+import net.pherth.android.emoji_library.emoji.EmojiMap;
 
 import java.util.Arrays;
 import java.util.regex.Matcher;
