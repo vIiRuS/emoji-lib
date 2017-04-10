@@ -1,5 +1,7 @@
 package com.github.viirus.emojilib.example;
 
+import com.github.data5tream.emojilib.example.R;
+
 import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;
@@ -13,7 +15,6 @@ import android.widget.PopupWindow.OnDismissListener;
 import net.pherth.android.emoji_library.EmojiEditText;
 import net.pherth.android.emoji_library.EmojiGridView;
 import net.pherth.android.emoji_library.EmojiPopup;
-import net.pherth.android.emoji_library.emoji.Emojicon;
 import net.pherth.android.emoji_library.Emojicon;
 
 public class MainActivity extends Activity {

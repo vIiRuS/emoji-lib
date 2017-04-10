@@ -1,5 +1,7 @@
 package net.pherth.android.emoji_library;
 
+import android.support.annotation.Nullable;
+
 import java.util.Arrays;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
