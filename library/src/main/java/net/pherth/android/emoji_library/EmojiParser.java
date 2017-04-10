@@ -17,7 +17,11 @@ public class EmojiParser {
      * @param text String containing Cheat Sheet codes
      * @return Formatted String containing unicode characters
      */
+    @Nullable
     public static String parseEmojis(String text){
+        if (text == null) {
+            return text;
+        }
         String returnString = text;
 
         Pattern pattern = Pattern.compile("(:[^:]+:)");
@@ -39,8 +43,11 @@ public class EmojiParser {
      * @param text String containing unicode formatted emojis
      * @return String containing the Cheat Sheet codes of the emojis
      */
+    @Nullable
     public static String convertToCheatCode(String text){
-
+        if (text == null) {
+            return text;
+        }
         String returnString = text;
 
         char[] charArray = text.toCharArray();
