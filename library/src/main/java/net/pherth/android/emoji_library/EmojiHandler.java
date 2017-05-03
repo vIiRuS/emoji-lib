@@ -1618,10 +1618,16 @@ public final class EmojiHandler {
         }
 
         int skip;
+        int icon;
         for (int i = index; i < textLengthToProcess; i += skip) {
-            skip = 0;
-            int icon = 0;
             char c = text.charAt(i);
+            if(c > ' ' && c < '~') { // ascii
+                skip = 1;
+                continue;
+            }
+
+            skip = 0;
+            icon = 0;
             if (isSoftBankEmoji(c)) {
                 icon = getSoftbankEmojiResource(c);
                 skip = icon == 0 ? 0 : 1;
