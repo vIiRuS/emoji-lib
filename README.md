@@ -21,7 +21,7 @@ repositories {
 ...
 
 dependencies {
-    compile 'com.github.Data5tream:emoji-lib:0.0.3.3'
+    compile 'com.github.Data5tream:emoji-lib:0.0.4'
    }
 
 
@@ -40,7 +40,7 @@ Maven:
   <dependency>
     <groupId>com.github.data5tream</groupId>
     <artifactId>emoji-lib</artifactId>
-    <version>0.0.3.3</version>
+    <version>0.0.4</version>
   </dependency>
 ```
 
@@ -67,8 +67,6 @@ To use the emoji-keyboard, take a look at the [example code](https://github.com/
 ## Acknowledgements
 
 Emoji Support Lib uses emoji graphics from [emoji-cheat-sheet.com](https://github.com/arvida/emoji-cheat-sheet.com/tree/master/public/graphics/emojis).
-
-This project has a dependency on [Guava](https://github.com/google/guava).
 
 ## License
 
