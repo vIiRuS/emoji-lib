@@ -21,7 +21,7 @@ repositories {
 ...
 
 dependencies {
-    compile 'com.github.Data5tream:emoji-lib:0.0.4'
+    compile 'com.github.viirus:emoji-lib:0.0.5'
    }
 
 
@@ -38,9 +38,9 @@ Maven:
 ...
 
   <dependency>
-    <groupId>com.github.data5tream</groupId>
+    <groupId>com.github.viirus</groupId>
     <artifactId>emoji-lib</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5</version>
   </dependency>
 ```
 
